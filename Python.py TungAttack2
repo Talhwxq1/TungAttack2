@@ -1,0 +1,8 @@
+# TungAttack2
+
+mesaj = "Merhaba"
+
+mesaj2 = "Dünya"
+
+print(mesaj + " " + mesaj2)
+
