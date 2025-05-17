@@ -1,2 +1,8 @@
 # TungAttack2
-This is DDoS 
+
+mesaj = "Merhaba"
+
+print(mesaj[::])
+
+print("""Merhaba
+Dünya""")
